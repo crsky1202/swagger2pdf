@@ -1,5 +1,5 @@
-# swagger-to-PDF  生成效果不理想
-## Purpose
+# swagger-to-PDF  
+## Purpose   生成效果不理想，待改进
 Creates a PDF from a Swagger JSON file.
 
 ## How to use
